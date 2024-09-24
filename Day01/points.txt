@@ -282,5 +282,7 @@ print this pattern
 
 print all prime numbers between 150 and 50
 
+age = 10
+print("Eligible" if age > 17 else "not eligible" if age == 18 "Good" )
 
 
