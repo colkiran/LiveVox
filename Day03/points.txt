@@ -1,0 +1,44 @@
+2. Dictionary
+-------------
+dictionaries are also called as associative arrays
+
+  0    1    2    3    4    5
+['a', 'b', 'c', 'd', 'e', 'f']
+
+
+{0 :'a', 1 :'b', 2 :'c', 3 :'d', 4 :'e', 5 :'f'}
+
+0, 1, 2, 3, 4, 5 		=> called as keys
+'a', 'b', 'c', 'd', 'e', 'f' 	=> called as values
+
+1. keys are user defined
+2. keys are always unique
+3. they are unordered collection 
+4. they are mutable
+5. they are enclosed in {key: value}
+
+Functions to manipulate dictionaries
+-------------------------------------
+
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+Tuples
+------
+immutable list
+tuples are enclosed in ()
+
+
+Set
+---
+1. sets are unique collection
+2. sets are not subscriptable - (cannot be indexed)
+3. sets are unordered collection
+4. sets are mutable
+5. sets are enclosed in {}
+
+
+
+
+
+
