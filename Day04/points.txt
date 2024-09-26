@@ -1,0 +1,58 @@
+Functions
+---------
+def - define
+
+
+named tuple
+-----------
+
+__doc__ = double underscore = dunder_doc
+
+
+Lambdas
+-------
+What are lambdas?
+
+lambdas are anonymous functions with a single expression
+
+result of the expression = lambda var1, var2, var3... : expression
+
+
+l1 = [8, 6, 3, 9, 5, 7, 10, 4]
+
+reduce(lambda x, y: x if x > y else y, l1)
+
+x = 8
+
+y = 6
+
+1. scope of a variable
+
+2. comprehension - iterating a collection using lambda syntaxes
+
+3. Decorator
+
+@staticmethod
+def fun():
+  pass
+
+
+@classmethod
+
+@abstractmethod
+
+button_click()
+
+	login as superuser / pwd
+
+	    def withdraw(acno, amt):
+    	          pass
+
+	login off superuser / pwd
+
+
+
+
+
+
+
