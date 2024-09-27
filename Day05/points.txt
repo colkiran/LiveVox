@@ -1,0 +1,37 @@
+Scope of a Variable
+-------------------
+variables created outside the function is not accessible inside the function and vice versa.
+
+
+Accessibility in python
+-----------------------
+1. we can print the value of the variable
+2. but we cannot change is value
+
+1. local	- lexical - 
+2. global
+3. non local
+
+Decorator
+---------
+nested functions
+
+
+Hello  ----> Sachin
+Hello ====>> Sachin
+
+write a decorator to calculate the time taken by a function to execute
+----------------------------------------------------------------------
+
+Date and Time Function
+-----------------------
+1. datetime
+2. dateutil
+
+
+
+
+
+
+
+
