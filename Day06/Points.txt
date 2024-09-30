@@ -1,0 +1,75 @@
+class Player:
+    def __init__(self):
+        print("Player initialised")
+
+    def get_runs(self):
+        print("runs")
+
+    def Player(self):
+        print("Hello World")
+
+sachin = Player()
+sachin.get_runs()
+sachin.Player()
+
+
+Class attribute
+---------------
+1. create two classmethods 
+	a. to set the name of a Head
+   	b. to get the name of the Head
+
+
+2. Create a class method that takes the DOB as an Argument for
+
+     def __init__(self, name, age):
+	 pass
+
+
+3. class method which creates a file handle
+   another to read the contents of the file
+
+
+
+
+Operator Overloading
+--------------------
+__add__		- dunder_add  =>  Magic Methods
+
+
+
+if we are overloading two operators 
+
+1. == (mandatory)
+2. >, <, >=, <= (any one)
+
+
+Write a code to overload all arithmetic operators
+---------------------------------------------------
+add, sub, mul, div, floordiv and mod
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
