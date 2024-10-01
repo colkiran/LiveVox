@@ -1,0 +1,94 @@
+1. create a class
+
+2. create an object of the class
+
+3. call the methods in the class
+
+4. constructor __init__()
+
+5. self, __dict__
+
+6. class attribute
+
+7. class method
+
+8. operator overloading
+
+9. __str__, __eq__, __gt__, @total_ordering
+
+10. __add__, __sub__, __mul__, __truediv__, __floordiv__, __mod__
+
+11. __iter__, __getitem__, __setitem___
+
+12. private variable
+
+13. property, @property
+
+
+Inheritance
+-----------
+
+1. A deck as a sequence of cards
+
+Create a class that contains a deck of cards - 52
+'spades diamonds clubs hearts' - number 2-10 + JQKA
+
+the class has methods like __len__ that returns the length of cards in the deck
+__getitem__ that returns the position of the card
+
+class FrenchDeck:
+    pass
+
+
+Results should be fetched like this
+
+>>> deck = FrenchDeck()
+>>> deck[0]
+Card(rank='2', suit='spades')
+>>> deck[-1]
+Card(rank='A', suit='hearts')
+
+
+Packages and Modules
+--------------------
+
+Module => library 
+
+Module is any python program which can consist of
+
+1. variables
+2. data structures
+3. functions
+4. classes
+
+modules will have the same extension as any python file - .py
+
+packages  - folders or directories that has one or more modules stored inside
+
+
+import mymodule as m
+
+from mymodule import greet, Employee
+
+.py -> .pyc (compiled copy or bytecode) => __pychche__ folder
+
+
+python -m filename
+
+__pychche__ folder - .pyc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
