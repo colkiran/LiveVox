@@ -1,0 +1,116 @@
+import mymodule as m
+import mypackage.mymodule
+
+
+import mymodule
+---------------
+expects the module to be placed in environment path
+
+
+
+
+from mymodule import class, function
+
+from mypackage import mymodule
+
+
+
+C:\\Delhi
+---------
+gurgaon - mymodule.py
+
+
+
+print("-" * 60)
+
+create a file with an extension .pth (path file) name of the file can be anything
+
+
+python compares the date and time of creation of 
+
+   .py file vs .pyc file
+
+it always expects .pyc file to have the latest date and time
+
+
+from mypackage import *
+------------------------
+
+packages are compared with classes in python
+
+in classes we have a constructor = __init__
+
+in packages we have a file with name  = __init__.py
+
+
+python -m pip install --upgrade build 
+
+python -m build - execute same place where the .toml is present
+
+
+File Handling
+-------------
+Opening a file - different modes
+
+read mode = r
+
+write mode = w
+
+append mode = a
+
+*.txt => data stored in ascii format - no need of drivers to decrypt or encrypt
+
+
+
+
+{ "ingress_rules": [
+ 
+{ "cidr_blocks": [ "10.111.108.0/23", "10.111.110.0/23" ], 
+"description": "", "from_port": 8000, "protocol": "tcp", "security_groups": [], "self": false, "to_port": 8999 },
+
+{ "cidr_blocks": [], "description": "", "from_port": 8000, "protocol": "tcp", "security_groups": [ "sg-08fcfdd7edc91011f" ], "self": false, "to_port": 8999 }, 
+
+{ "cidr_blocks": [], "description": "", "from_port": 80, "protocol": "tcp", "security_groups": [ "sg-08fcfdd7edc91011f" ], "self": false, "to_port": 80 }, 
+
+{ "cidr_blocks": [], "description": "", "from_port": 80, "protocol": "tcp", "security_groups": [ "sg-0ee24c8fc6c270768" ], "self": false, "to_port": 80 } ] 
+
+}
+
+
+
+
+
+
+Assignment
+----------
+
+emp.csv - open it like a text file in read mode and list the following details - use your data structures (lists, dictionaries)
+
+1. no of males and females
+2. unique list of departments
+3. unique list of designations
+4. sum of all salaries
+5. sum of all salaries of managers who are females
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
