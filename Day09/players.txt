@@ -1,0 +1,5 @@
+insert into players (playerid, playername, sport, achievements) values ('PLY101', 'Sachin Tendulkar', 'Cricket', '100 Centuries')
+insert into players (playerid, playername, sport, achievements) values ('PLY212', 'Mike Tyson', 'Boxing', '42 knockouts')
+insert into players (playerid, playername, sport, achievements) values ('PLY363', 'Roger Fedrer', 'Tennis', '85 Grandslams')
+insert into players (playerid, playername, sport, achievements) values ('PLY444', 'Lionel Messi', 'Football', '8 Ballandors')
+insert into players (playerid, playername, sport, achievements) values ('PLY501', 'PV Sindhu', 'Badmiton', 'Bronze Olympics')
