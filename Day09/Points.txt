@@ -6,3 +6,43 @@ python => openpyxl => EXCEl file
 2. how to add data into the excel file
 3. read the data that was added into the excel file
 4. add charts
+
+
+REST API
+--------
+representational state transfer
+
+Methods
+-------
+GET method
+----------
+GET is one of the most common HTTP methods used when working with API, it is used to retrieve resources from a given API. GET is readonly
+
+POST Method
+-----------
+POST is used to add data to a REST API to create a new resource.
+
+PUT Method
+----------
+PUT method is used to update the existing todo data new data
+
+PATCH Method
+------------
+PATCH is also used to modify the existing todo data, it doesn't replace the complete data
+
+DELETE Method
+-------------
+DELETE is used to delete data from REST API
+
+
+
+
+
+
+
+
+
+
+
+
+
