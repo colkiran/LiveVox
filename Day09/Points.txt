@@ -1,1 +1,8 @@
 psycopg2 - module to connect to Postgres
+
+python => openpyxl => EXCEl file
+
+1. create an excel file
+2. how to add data into the excel file
+3. read the data that was added into the excel file
+4. add charts
