@@ -1,0 +1,23 @@
+Pickling
+--------
+
+
+iterators vs Generators vs comprehension
+----------------------------------------
+list, dict, tuple
+
+iterable object -> __next__, __iter__
+
+iterable objects -> extract the data from the one after another
+
+
+coroutines
+----------
+
+9886453443
+
+colkiran@gmail.com
+
+https://exams.vinsys.com/exam/PythonTest07OctForLiveVox  - before - 9 AM
+
+
